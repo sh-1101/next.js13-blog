@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "next.js13",
+      "title": "Next.js13を学ぶ",
+      "content": "Next.js13の使い方を学んでいます。",
+      "createdAt": "2023/10/20"
+    },
+    {
+      "id": "json-server",
+      "title": "JSONサーバー",
+      "content": "Jsonサーバーの使い方を学んでいます。",
+      "createdAt": "2023/10/21"
+    }
+  ]
+}
