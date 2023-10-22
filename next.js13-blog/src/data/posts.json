@@ -17,6 +17,18 @@
       "title": "TailwindCSS",
       "content": "TailwindCSSの使い方を学んでいます。",
       "createdAt": "2023/10/22"
+    },
+    {
+      "id": "testId",
+      "title": "testTitle",
+      "content": "testContent",
+      "createdAt": "2023-10-22T06:31:47.457Z"
+    },
+    {
+      "id": "redirect",
+      "title": "リダイレクトのテスト",
+      "content": "記事投稿後にリダイレクトする機能のテストです",
+      "createdAt": "2023-10-22T06:34:55.453Z"
     }
   ]
 }
